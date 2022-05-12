@@ -1,7 +1,5 @@
 # Dev tips tips
 
-## git commands
-
 ## VS code commands
 
 delete line => `cmd/ctrl + shift + K`
